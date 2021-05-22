@@ -1,14 +1,10 @@
-﻿/* **************************************************************** */
-/*                        COC001 - ASSIGNMENT 2                     */
-/* **************************************************************** */
-
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
 
-namespace Assignment2
+namespace Task2
 {
     class Program
     {
